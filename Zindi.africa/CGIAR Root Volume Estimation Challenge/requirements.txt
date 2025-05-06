@@ -1,0 +1,13 @@
+ultralytics
+lightning
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+torch torchvision
+scikit-learn
+pytorch_lightning
+timm
+lightgbm
+tqdm

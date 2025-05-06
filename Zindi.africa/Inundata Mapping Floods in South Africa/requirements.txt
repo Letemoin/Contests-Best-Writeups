@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+pyarrow
+lightgbm
+pillow
+matplotlib
+timm
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
