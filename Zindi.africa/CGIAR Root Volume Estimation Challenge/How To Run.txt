@@ -1,9 +1,0 @@
-# Recommended
--------------
-> RUN      01. Clean Preprocessing Arena.ipynb
-> Then Run 02. Training Tabular Arena_R1.ipynb
-
-
-# Alternative
--------------
-> RUN      ZINDI_FULL_CODE_SameFile.ipynb  as single from start to end "Consolidated Code"
